@@ -1,0 +1,4 @@
+name: ProjectileQuadraticFunctionPlugin
+version: '1.0'
+main: com.io.github.marobim815.projectileQuadraticFunctionPlugin.ProjectileQuadraticFunctionPlugin
+api-version: '1.21'
