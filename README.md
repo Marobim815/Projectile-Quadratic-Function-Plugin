@@ -1,5 +1,5 @@
 # Projectile Quadratic Function Plugin
-마인크래프트 Paper플러그인
+## 마인크래프트 Paper전용 플러그인
 
 > 마인크래프트에서 투사체를 던지면 **하트 파티클**로 궤적을 시각화하고 **이차함수 방정식**을 출력
 
